@@ -16,7 +16,7 @@ Furthermore, this project was interesting to implement because it permitted us t
   
  
 ## You will find in this repositery :   
-* A [LaTeX report of the study](https://github.com/thomastrg/Data_structure_AmongUs/blob/main/ADSA_Mini_Probleme.pdf)
+* A [LaTeX report of the project](https://github.com/thomastrg/Data_structure_AmongUs/blob/main/ADSA_Mini_Probleme.pdf)
 * The [python files](https://github.com/thomastrg/Data_structure_AmongUs) with each step corresponding to the realization.
 <br> 
 
